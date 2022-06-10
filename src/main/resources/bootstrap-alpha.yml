@@ -7,3 +7,4 @@ spring:
         git:
           uri: https://github.com/codej99/SpringCloudMsa
           search-paths: server-configs
+
